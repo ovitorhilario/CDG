@@ -10,6 +10,9 @@ O  CDG, Corretor de Gabaritos, utiliza a linguagem Python e algumas bibliotecas 
 A aplicação tem como finalidade corrigir gabaritos através de uma câmera, apresentando as respostas de forma imediata na tela do dispositivo por meio de informações previamente fornecidas ao programa, como o número de questões, a quantidade alternativas por questão e as respectivas respostas corretas de cada questão.
 
 ## Começando
+
+[Instalação](https://github.com/vitor-hilario/CDG/releases/tag/v1.0) ⬇️
+
 Para executar o projeto, pode-se instalar o arquivo .exe, não sendo necessário a utilização de outro programa, porém, em caso de teste dos arquivos do código-fonte, será necessário ter um ambiente de desenvolvimento, mostrado no próximo tópico de Desenvolvimento.
 
 Não somente isso, é preciso ter uma saída de vídeo, ou seja, uma câmera, webcam, ou até mesmo a câmera do celular com o uso do DroidCam, assim como é demonstrado nesse [Vídeo](https://youtu.be/fv_OTMaxAiU) de exemplo. 
